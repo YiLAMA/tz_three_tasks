@@ -1,0 +1,11 @@
+# Игнорировать файлы pycharm:
+./pychache/
+*.pyc
+
+# Игнорировать venv:
+.venv
+
+# git включит файл .gitignore вместе с пустой папкой нашей
+!.gitignore
+
+
